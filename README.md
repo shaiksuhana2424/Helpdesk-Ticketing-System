@@ -48,4 +48,4 @@ The Helpdesk Ticketing System is a Java-based application designed to manage and
 
 GitHub: https://github.com/shaiksuhana2424
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: www.linkedin.com/in/suhana-shaik-26022030b
